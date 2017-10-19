@@ -1,1 +1,3 @@
-!#bash/bin/python
+#!/usr/bin/env python2
+
+
